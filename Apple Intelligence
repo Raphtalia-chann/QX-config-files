@@ -1,8 +1,8 @@
 # for Apple Intelligence
 # Update 20260317
 
-HOST, 17.248.152.145/24
-HOST, 17.248.152.113/24
+IP-CIDR, 17.248.152.145/24
+IP-CIDR, 17.248.152.113/24
 HOST, apple-relay.apple.com
 HOST, apple-relay.fastly-edge.com
 HOST, apple-relay.cloudflare.com
