@@ -6,7 +6,7 @@ IP-CIDR, 17.248.152.113/24
 HOST, apple-relay.apple.com
 HOST, apple-relay.fastly-edge.com
 HOST, apple-relay.cloudflare.com
-HOST-SUFFIX, *.smoot.apple.com
+HOST-SUFFIX, smoot.apple.com
 HOST, guzzoni.apple.com
 HOST, cp4.cloudflare.com
 HOST, gspe1-ssl.ls.apple.com
