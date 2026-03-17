@@ -1,0 +1,12 @@
+# for Apple Intelligence
+# Update 20260317
+
+DOMAIN, 17.248.152.145/24
+DOMAIN, 17.248.152.113/24
+DOMAIN, apple-relay.apple.com
+DOMAIN, apple-relay.fastly-edge.com
+DOMAIN, apple-relay.cloudflare.com
+DOMAIN-SUFFIX, *.smoot.apple.com
+DOMAIN, guzzoni.apple.com
+DOMAIN, cp4.cloudflare.com
+DOMAIN, gspe1-ssl.ls.apple.com
